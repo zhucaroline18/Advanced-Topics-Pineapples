@@ -1,9 +1,9 @@
-jinja- write python in html files 
-blueprint allows to have multiple files 
-bootstrap
-flask
-html
-css
+jinja- write python in html files \
+blueprint allows to have multiple files \
+bootstrap\
+flask\
+html\
+css\
 
 can show flash error or success 
 
