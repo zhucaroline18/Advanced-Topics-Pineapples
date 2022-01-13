@@ -3,7 +3,7 @@ blueprint allows to have multiple files \
 bootstrap\
 flask\
 html\
-css\
+css
 
 can show flash error or success 
 
